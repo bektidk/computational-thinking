@@ -1,0 +1,10 @@
+Dalam proses berpikir komputasional terdapat empat metode yang dapat diterapkan, yaitu:
+    1. Dekomposisi (Decomposition)
+       Teknik penguraian masalah yang kompleks menjadi bagian-bagian yang lebih kecil, sehingga masalah tersebut lebih mudah dikelola.
+    2. Pengenalan Pola (Pattern Recognition)
+       Teknik mencari pola yang serupa atau kesamaan dalam suatu permasalahan.
+    3. Abstraksi (Abstraction)
+       Abstraksi merupakan suatu teknik untuk berfokus pada informasi yang penting dan mengabaikan informasi lain yang tidak relevan dengan permasalahan yang dihadapi.
+    4. Algoritma (Algorithms)
+       Algoritma merupakan teknik menentukan langkah demi langkah tahapan untuk mengembangkan solusi dalam pemecahan masalah.
+* Sc: https://medium.com/@bektidk/computational-thinking-fc37904917a0
